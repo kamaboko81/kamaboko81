@@ -2,7 +2,7 @@
 Hi, I'm a fledgling web application engineer🐤.
 
 ## 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,vite,ruby,rails,flutter,firebase,mysql,nginx,docker,git,github,githubactions,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,vite,ruby,rails,flutter,firebase,mysql,nginx,docker,git,github,githubactions,aws)](https://skillicons.dev)
 
 ## 📈 Status
 
